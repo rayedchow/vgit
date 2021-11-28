@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [$1 == '-p']
+then
+  git push origin master
+else
+  cd $PWD
+  git add .
+  git commit -m $@
+fi
