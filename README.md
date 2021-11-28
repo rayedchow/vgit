@@ -9,7 +9,7 @@ To install this tool, all you do is:
 
 ## Using the CLI
 ### Committing
-Committing is immensely simple. The syntax is: `vgit COMMIT TEXT HERE`
+Committing is immensely simple. The syntax is: `vgit "COMMIT TEXT HERE"`
 
 ### Pushing
 To push the commits you have made, execute `vgit -p`.
