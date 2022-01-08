@@ -13,3 +13,4 @@ Committing is immensely simple. The syntax is: `vgit "COMMIT TEXT HERE"`
 
 ### Pushing
 To push the commits you have made, execute `vgit -p`.
+To commit AND push in the same cmd, simply use `vgit "COMMIT TEXT HERE" -p`
